@@ -1,8 +1,8 @@
-import React from 'react';
-import Navbar from './navbar';
-import CategoryList from './category-list';
-import ProductList from './product-list';
-import { Container, Row, Col } from 'reactstrap';
+import React from 'react'
+import Navbar from './navbar'
+import CategoryList from './category-list'
+import ProductList from './product-list'
+import { Container, Row, Col } from 'reactstrap'
 
 
 function App() {
