@@ -6,9 +6,10 @@ export default class CategoryList extends Component {
     return (
       <div>
         <ListGroup>
-          <ListGroupItem>
-
-          </ListGroupItem>
+          <ListGroupItem>Item 1</ListGroupItem>
+          <ListGroupItem>Item 2</ListGroupItem>
+          <ListGroupItem>Item 3</ListGroupItem>
+          <ListGroupItem>Item 4</ListGroupItem>
         </ListGroup>
       </div>
 
