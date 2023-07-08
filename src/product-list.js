@@ -4,8 +4,8 @@ import { ListGroup, ListGroupItem, ListGroupItemHeading } from 'reactstrap'
 export default class ProductList extends Component {
   render() {
     return (
-      <div>
-        <ListGroupItemHeading>Category List</ListGroupItemHeading>
+      <div className='my-5'>
+        <ListGroupItemHeading>Product List</ListGroupItemHeading>
         <ListGroup className='my-4'>
           <ListGroupItem>Item 1</ListGroupItem>
           <ListGroupItem>Item 2</ListGroupItem>
