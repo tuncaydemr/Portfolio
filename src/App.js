@@ -6,8 +6,8 @@ import { Container, Row, Col } from 'reactstrap'
 
 
 function App() {
-  let categoryTitle = "Category List"
-  let productTitle = "Product List"
+  let categoryInfo = {title: "Category List"}
+  let productInfo = {title: "Product List"}
 
   return (
     <div>
