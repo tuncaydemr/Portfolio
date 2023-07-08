@@ -10,7 +10,9 @@ function App() {
     <div>
       <Container>
         <Row>
-          <Navbar />
+          <Col xs="12">
+            <Navbar />
+          </Col>
         </Row>
         <Row>
           <CategoryList />
