@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { ListGroup, ListGroupItem, ListGroupItemHeading } from 'reactstrap'
+import { ListGroup, ListGroupItem } from 'reactstrap'
 
 export default class ProductList extends Component {
   render() {
