@@ -19,7 +19,7 @@ function App() {
             <CategoryList title="Category List" />
           </Col>
           <Col xs="9">
-            <ProductList title="Category List" />
+            <ProductList title="Product List" />
           </Col>
         </Row>
       </Container>
